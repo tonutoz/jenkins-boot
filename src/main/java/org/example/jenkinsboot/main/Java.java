@@ -1,4 +1,4 @@
-package org.example.jenkinsboot.test;
+package org.example.jenkinsboot.main;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
