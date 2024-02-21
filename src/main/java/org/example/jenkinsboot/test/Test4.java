@@ -5,5 +5,8 @@ public class Test4 {
   private void z() {
     String aa = "";
   }
+  private String bb() {
+    return "";
+  }
 
 }
